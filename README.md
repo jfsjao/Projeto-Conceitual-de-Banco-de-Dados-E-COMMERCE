@@ -21,4 +21,4 @@ Este projeto representa um modelo conceitual de banco de dados para um sistema d
 
 ## 🖼️ Diagrama
 
-![Modelo Conceitual](imagens/modelo_conceitual.png)
+![Modelo Conceitual](Diagramas/Diagrama_ER.JPG)
